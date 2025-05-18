@@ -29,7 +29,8 @@ PFTracker is a modern web-based flight tracker for Roblox, with a beautifully cr
 - **Main goals:** learning, UI mimicry, code inspiration for dashboards.
 
 ## Screenshots
-> Screenshots go here. (Paste or drag images of the clone in this section after running locally!)
+> ![image](https://github.com/user-attachments/assets/ac834421-827f-4f3a-9466-ae484390b903)
+
 
 ---
 
